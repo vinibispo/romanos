@@ -1,0 +1,32 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: #fff;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+input {
+  margin-top: 1rem;
+  outline: none;
+  padding: 2rem 8rem;
+  font-size: 2rem;
+}
+
+.input-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+span {
+  font-size: 6rem;
+  color: #fff;
+  margin-left: 1.25rem;
+}

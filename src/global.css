@@ -1,0 +1,18 @@
+:root {
+  font-size: 16px;
+  font-family: 'Montserrat';
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100vh;
+}
+
+#root {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpersonajeshistoricos.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fmarco-aurelio-18-1024x1001.jpg&f=1&nofb=1");
+  background-size: cover;
+}
